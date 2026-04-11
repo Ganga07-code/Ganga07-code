@@ -3,7 +3,7 @@ Hello, world 👋
 CS undergrad exploring full-stack development, AI, Cyber Security, and DevOps.
 
 - 🎓 B.Tech CSE student (2023–2027)
-- 📊 CGPA: 8.34/10
+- 📊 CGPA: 8.36/10
 - 💡 Learning Data Structures and core computer science fundamentals
 - 🌐 Full-stack development experience (HTML, CSS, JavaScript, PHP, MySQL)
 - 🤖 Worked on AI and Gen-AI based projects
