@@ -4,13 +4,16 @@
 
 <p align="center">
   <a href="https://my-main-personal-protfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gangadhar-myla-801aa035a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/Ganga07-code">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/gangadhar31/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="mailto:gangadharmyla2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
@@ -30,27 +33,19 @@ I'm a passionate **Computer Science undergraduate** who enjoys building impactfu
 - 💻 Full-Stack Developer
 - 🤖 AI & Generative AI Enthusiast
 - 🔐 Cyber Security Learner
-- ⚙️ Exploring DevOps & Cloud
+- ⚙️ Exploring DevOps, Docker & Cloud
 - 📚 Learning Data Structures & Core CS Fundamentals
 - 🔬 Research Intern at **SRM AP**
 - 💼 Web Development Intern at **SkillCraft Technology**
 - 🧠 Research Exposure in Machine Learning (Gen-AI Legal Assistant)
-- 🧩 Regularly solving problems on **LeetCode**
-- 🤝 Open to collaborating on **Web Development, AI, Cyber Security, and DevOps**
-
----
-
-## 🌐 Portfolio
-
-🔗 **Visit my Portfolio**
-
-➡️ **https://my-main-personal-protfolio.vercel.app**
+- 🧩 Solving problems on **LeetCode**
+- 🤝 Open to collaborating on **Web Development, AI, Cyber Security & DevOps**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
@@ -59,31 +54,31 @@ I'm a passionate **Computer Science undergraduate** who enjoys building impactfu
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 
-### Frontend
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
 
-### Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 
-### Database
+### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
 
-### AI / ML
+### 🤖 AI / ML
 
 - Machine Learning
 - Generative AI
 - Prompt Engineering
 - NLP
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
@@ -103,28 +98,8 @@ I'm a passionate **Computer Science undergraduate** who enjoys building impactfu
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Ganga07-code&theme=algolia&margin-w=10)
-
----
-
-## 📫 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel)](https://my-main-personal-protfolio.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gangadhar-myla-801aa035a/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Ganga07-code)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/gangadhar31/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:gangadharmyla2006@gmail.com)
-
----
-
 ![](https://komarev.com/ghpvc/?username=Ganga07-code&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Code • Learn • Build • Repeat"* 🚀
