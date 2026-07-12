@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Gangadhar%20Myla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Enthusiast%20|%20Full-Stack%20Developer%20|%20Gen%20AI%20Explorer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Gangadhar%20Myla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Enthusiast%20|%20Full-Stack%20Developer%20|%20Gen%20AI%20Explorer&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Cyber+Security+Enthusiast;Full-Stack+Developer;Exploring+AI+%26+Generative+AI"/>
 
@@ -24,9 +24,9 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:00c9a7,100:2c5364&width=100%"/>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:00c9a7&height=90&section=header&text=About%20Me&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=&reversal=false"/>
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
@@ -45,65 +45,58 @@ Hello, World! 👋 I'm a passionate **Computer Science undergraduate** who enjoy
 
 <br clear="right"/>
 
----
-
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:00c9a7&height=90&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" />
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<br/><br/>
+
+**Frontend & Styling**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+
+<br/><br/>
 
 **Backend & Database**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+
+<br/><br/>
 
 **AI / ML**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Machine_Learning-00C9A7?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-00C9A7?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-00C9A7?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-00C9A7?style=flat-square&logo=huggingface&logoColor=white"/>
+<sub>Generative AI &nbsp;•&nbsp; Prompt Engineering &nbsp;•&nbsp; NLP</sub>
+
+<br/><br/>
 
 **DevOps & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" />
 
 </div>
 
----
-
-## 📈 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:00c9a7&height=90&section=header&text=GitHub%20Stats&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ganga07-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganga07-code&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Ganga07-code&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga07-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga07-code&theme=redical&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:00c9a7&height=150&section=footer&animation=fadeIn"/>
 
 <div align="center">
 
