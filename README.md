@@ -24,9 +24,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:00c9a7,100:2c5364&width=100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:00c9a7&height=90&section=header&text=About%20Me&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
@@ -45,7 +43,7 @@ Hello, World! 👋 I'm a passionate **Computer Science undergraduate** who enjoy
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:00c9a7&height=90&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <div align="center">
 
@@ -81,19 +79,19 @@ Hello, World! 👋 I'm a passionate **Computer Science undergraduate** who enjoy
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:00c9a7&height=90&section=header&text=GitHub%20Stats&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ganga07-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Ganga07-code&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ganga07-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganga07-code&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga07-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga07-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga07-code&theme=redical&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga07-code&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:00c9a7&height=150&section=footer&animation=fadeIn"/>
