@@ -90,12 +90,7 @@ Hello, World! 👋 I'm a passionate **Computer Science undergraduate** who enjoy
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ganga07-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganga07-code&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganga07-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="Top Languages"/>
 
 <br/><br/>
 
