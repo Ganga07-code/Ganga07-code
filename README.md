@@ -1,67 +1,106 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Gangadhar%20Myla&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20•%20Full-Stack%20Developer%20•%20GenAI%20Explorer&descAlignY=55"/>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00C9A7&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Cyber+Security+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects"/>
-<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Gangadhar%20Myla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Enthusiast%20|%20Full-Stack%20Developer%20|%20Gen%20AI%20Explorer&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Cyber+Security+Enthusiast;Full-Stack+Developer;Exploring+AI+%26+Generative+AI"/>
+
+<br/><br/>
+
 <a href="https://my-main-personal-protfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/gangadhar-myla-801aa035a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Ganga07-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/gangadhar31/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="mailto:gangadharmyla2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
 </div>
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-</p>
-👨‍💻 About Me
-I'm Gangadhar Myla, a Computer Science undergraduate passionate about building secure, scalable, and practical software.
-🎓 B.Tech Computer Science Engineering (2023–2027)
-💼 Software Development Intern @ GetSetAI Innovation
-🔬 Former Research Intern @ SRM AP
-🔐 Interested in Cyber Security
-🌐 Building modern Full-Stack Applications
-🤖 Exploring AI, Generative AI, Cloud & DevOps
-🚀 Always learning through real-world projects
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-</p>
-💻 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,docker,vscode&theme=dark"/>
-</p>
-<p align="center">
-<sub>Learning • Building • Improving</sub>
-</p>
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-</p>
-🚀 Featured Projects
-Project	Description
-🔐 PrivAccess	Privacy-preserving Role-Based Access Control using Zero-Knowledge Proofs.
-💳 Credit Card Fraud Detection	Machine Learning model for identifying fraudulent transactions.
-✋ AI Rock Paper Scissors	Hand Gesture Recognition using OpenCV and MediaPipe.
-📅 Time Table Management System	Web application for academic scheduling and management.
-> **More projects:** https://github.com/Ganga07-code?tab=repositories
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-</p>
-📫 Connect With Me
-<p align="center">
-<a href="https://my-main-personal-protfolio.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/gangadhar-myla-801aa035a/">LinkedIn</a> •
-<a href="https://github.com/Ganga07-code">GitHub</a> •
-<a href="https://leetcode.com/u/gangadhar31/">LeetCode</a>
-</p>
+
+<br/>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
+
+Hello, World! 👋 I'm a passionate **Computer Science undergraduate** who enjoys building impactful software and exploring emerging technologies.
+
+- 🎓 &nbsp;**B.Tech CSE** (2023 – 2027) &nbsp;|&nbsp; **CGPA:** 8.48 / 10
+- 🧑‍💻 &nbsp;Software Development & App Development Intern @ **GetSetAI Innovation**
+- 🔬 &nbsp;Research Intern @ **SRM AP**
+- 💼 &nbsp;Web Development Intern @ **SkillCraft Technology**
+- 🧠 &nbsp;Research exposure in ML — building a **Gen-AI Legal Assistant**
+- 🔐 &nbsp;Diving deep into **Cyber Security**
+- 🤖 &nbsp;Exploring **AI, Generative AI & Prompt Engineering**
+- ⚙️ &nbsp;Learning **DevOps, Docker & Cloud**
+- 🧩 &nbsp;Sharpening problem-solving on **LeetCode**
+- 🤝 &nbsp;Open to collaborate on **Web Dev, AI, Cyber Security & DevOps**
+
+<br clear="right"/>
+<br/>
+
 <div align="center">
-Thanks for stopping by! 👋
-Building secure, scalable, and impactful software.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<br/><br/>
+
+<b>Languages</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" />
+
+<br/><br/>
+
+<b>Frontend & Styling</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+
+<br/><br/>
+
+<b>Backend & Database</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
+
+<br/><br/>
+
+<b>AI / ML</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<br/><br/>
+<sub>Generative AI &nbsp;•&nbsp; Prompt Engineering &nbsp;•&nbsp; NLP</sub>
+
+<br/><br/>
+
+<b>DevOps & Tools</b>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=120&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganga07-code&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganga07-code&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:00c9a7&height=150&section=footer&animation=fadeIn"/>
+
+### ⭐ Thanks for visiting my profile!
+*"Code • Learn • Build • Repeat"* 🚀
+
 </div>
